@@ -1,0 +1,7 @@
+[
+    "http://ip-api.com/json/%s",
+    "http://geoip.nekudo.com/api/%s",
+    "http://api.petabyet.com/geoip/%s",
+    "http://ipinfo.io/%s/json",
+    "http://www.geoplugin.net/json.gp?ip=%s"
+]
